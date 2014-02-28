@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark)[0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark/deploy,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark/deploy)[0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark/deploy/static,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark/deploy/static)[0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark/deploy/static/spark_logo.png,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark/deploy/static/spark_logo.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark/deploy/static/bootstrap.min.css,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark/deploy/static/bootstrap.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark/deploy/static/bootstrap-responsive.min.css,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark/deploy/static/bootstrap-responsive.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/prabeesh/spark-0.7.3/core/src/main/resources/spark/deploy/static/sorttable.js,/home/prabeesh/spark-0.7.3/core/target/scala-2.9.3/classes/spark/deploy/static/sorttable.js)[0m
